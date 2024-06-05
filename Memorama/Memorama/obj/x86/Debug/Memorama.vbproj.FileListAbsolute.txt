@@ -1,0 +1,325 @@
+C:\Users\Adrian\Desktop\Memorama\Memorama\bin\Debug\Memorama.exe
+C:\Users\Adrian\Desktop\Memorama\Memorama\bin\Debug\Memorama.pdb
+C:\Users\Adrian\Desktop\Memorama\Memorama\bin\Debug\Memorama.xml
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+E:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+E:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+E:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+F:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+F:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+F:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+F:\Proyecto de case\Memorama\Memorama\bin\Debug\Memorama.exe
+F:\Proyecto de case\Memorama\Memorama\bin\Debug\Memorama.pdb
+F:\Proyecto de case\Memorama\Memorama\bin\Debug\Memorama.xml
+F:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Menu.Form1.resources
+F:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Menu.Form4.resources
+F:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Menu.Menu2.resources
+F:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+F:\Proyecto de case\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.GenerateResource.Cache
+F:\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+F:\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+F:\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+F:\Memorama\Memorama\bin\Debug\Memorama.exe
+F:\Memorama\Memorama\bin\Debug\Memorama.pdb
+F:\Memorama\Memorama\bin\Debug\Memorama.xml
+F:\Memorama\Memorama\obj\x86\Debug\Menu.Form1.resources
+F:\Memorama\Memorama\obj\x86\Debug\Menu.Form4.resources
+F:\Memorama\Memorama\obj\x86\Debug\Menu.Menu2.resources
+F:\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+F:\Memorama\Memorama\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Memorama\Memorama\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Memorama\Memorama\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Adrian\Desktop\Memorama\Memorama\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adrian\Desktop\Memorama\Memorama\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Menu.FrmMenu.resources
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Menu.opciones.resources
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Menu.Salir.resources
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Menu.FrmNiveles.resources
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel2.resources
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Menu.FrmSeleccion.resources
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Menu.Salir2.resources
+C:\Users\Adrian\Desktop\Memorama\Memorama\obj\x86\Debug\Menu.opciones2.resources
+G:\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+G:\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+G:\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+G:\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+G:\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+F:\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+F:\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+F:\Nueva carpeta (2)\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+F:\Nueva carpeta (2)\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Nueva carpeta (2)\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+F:\Nueva carpeta (2)\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+F:\Nueva carpeta (2)\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+F:\Nueva carpeta (2)\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+F:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Memorama.exe
+F:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Memorama.pdb
+F:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Memorama.xml
+F:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Interop.WMPLib.dll
+F:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\AxInterop.WMPLib.dll
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmMenu.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel2.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel3.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNiveles.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmSeleccion.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmVictoria.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.opciones.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.opciones2.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Salir.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Salir2.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.GenerateResource.Cache
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+I:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Memorama.exe
+I:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Memorama.pdb
+I:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Memorama.xml
+I:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Interop.WMPLib.dll
+I:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\AxInterop.WMPLib.dll
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmMenu.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel2.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel3.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNiveles.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmSeleccion.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmVictoria.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.opciones.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.opciones2.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Salir.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Salir2.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.GenerateResource.Cache
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Opciones3.resources
+I:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.salir3.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+E:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Memorama.exe
+E:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Memorama.pdb
+E:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Memorama.xml
+E:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\Interop.WMPLib.dll
+E:\Nueva carpeta (3)\Memorama\Memorama\bin\Debug\AxInterop.WMPLib.dll
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Opciones3.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmMenu.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel2.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel3.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNiveles.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmSeleccion.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmVictoria.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.opciones.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.opciones2.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Salir.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Salir2.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.salir3.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.GenerateResource.Cache
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste2.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste3.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente2.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel1.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmOp.resources
+E:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.salir4a.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste2.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste3.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente2.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel1.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.FrmOp.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.Opciones3.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.salir3.resources
+F:\Nueva carpeta (3)\Memorama\Memorama\obj\x86\Debug\Menu.salir4a.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste2.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste3.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente2.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel1.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmOp.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Opciones3.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmMenu.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel2.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel3.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNiveles.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSeleccion.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmVictoria.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.opciones.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.opciones2.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Salir.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Salir2.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.salir3.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.salir4a.resources
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.GenerateResource.Cache
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.exe
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.pdb
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.xml
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Interop.WMPLib.dll
+I:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\AxInterop.WMPLib.dll
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.exe
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste2.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste3.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente2.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel1.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmOp.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Opciones3.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmMenu.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel2.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel3.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNiveles.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSeleccion.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmVictoria.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.opciones.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.opciones2.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Salir.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Salir2.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.salir3.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.salir4a.resources
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.exe
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.pdb
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.xml
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Interop.WMPLib.dll
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\AxInterop.WMPLib.dll
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste2.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste3.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente2.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel1.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmOp.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Opciones3.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmMenu.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel2.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel3.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNiveles.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSeleccion.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmVictoria.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.opciones.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.opciones2.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Salir.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Salir2.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.salir3.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.salir4a.resources
+F:\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.GenerateResource.Cache
+G:\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+G:\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+G:\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+G:\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+G:\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.exe
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.pdb
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.xml
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste2.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste3.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente2.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel1.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmOp.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Opciones3.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmMenu.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel2.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel3.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNiveles.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSeleccion.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmVictoria.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.opciones.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.opciones2.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Salir.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Salir2.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.salir3.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.salir4a.resources
+C:\Users\Kevin\Documents\Kevin\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.GenerateResource.Cache
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.ResolveComReference.cache
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.exe
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.xml
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.pdb
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.exe
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.pdb
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Memorama.xml
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste2.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste3.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente2.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel1.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmOp.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Opciones3.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmMenu.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel2.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNivel3.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmNiveles.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmPerdiste.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSeleccion.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmSiguiente.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.FrmVictoria.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Resources.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.opciones.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.opciones2.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Salir.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.Salir2.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.salir3.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Menu.salir4a.resources
+C:\Users\Kevin Magallanes\Documents\Feria de ciencias\PROYECTO MEGA OFICIAL\Memorama\Memorama\obj\x86\Debug\Memorama.vbproj.GenerateResource.Cache
